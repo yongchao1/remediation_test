@@ -1,0 +1,7 @@
+export default {
+  MINIO_ENDPOINT: '192.168.0.145',
+  MINIO_PORT: 9900,
+  MINIO_ACCESSKEY: 'root',
+  MINIO_SECRETKEY: '123456',
+  MINIO_BUCKET: 'testBucket',
+};
